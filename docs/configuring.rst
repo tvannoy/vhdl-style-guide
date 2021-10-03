@@ -240,5 +240,5 @@ Configure the indent size for all rules by setting the **global** attribute.
 .. include:: configuring_indentation.rst
 .. include:: configuring_multiline_indent_rules.rst
 .. include:: configuring_multiline_structure_rules.rst
-.. include:: configuring_conditional_expressions.rst
+.. include:: configuring_concurrent_and_variable_assignment_alignment.rst
 .. include:: configuring_conditional_expressions_structure_rules.rst

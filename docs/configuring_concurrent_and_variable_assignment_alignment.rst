@@ -1,5 +1,5 @@
-Configuring Concurrent Alignment Rules
---------------------------------------
+Configuring Concurrent and Variable Assignment Alignment Rules
+--------------------------------------------------------------
 
 There are rules which will check indent and alignment of multiline conditional expressions and conditional waveforms.
 

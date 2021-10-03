@@ -226,7 +226,7 @@ concurrent_009
 
 This rule checks alignment of multiline concurrent conditional signal statements.
 
-Refer to the section `Configuring Concurrent Alignment Rules <configuring.html#configuring-concurrent-alignment-rules>`_ for information on formatting options.
+Refer to the section `Configuring Concurrent and Variable Assignment Alignment Rules <configuring.html#configuring-concurrent-and-variable-assignment-alignment-rules>`_ for information on formatting options.
 
 **Violation**
 

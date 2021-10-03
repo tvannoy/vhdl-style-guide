@@ -77,9 +77,11 @@ This rule checks for at least a single space before the assignment.
 variable_assignment_004
 #######################
 
-|phase_4| |error|
+|phase_5| |error|
 
 This rule checks the alignment of multiline variable assignments.
+
+Refer to the section `Configuring Concurrent and Variable Assignment Alignment Rules <configuring.html#configuring-concurrent-and-variable-assignment-alignment-rules>`_ for information on formatting options.
 
 **Violation**
 
