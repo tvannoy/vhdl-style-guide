@@ -39,7 +39,7 @@ This is an example of how to configure these options.
      entity_003:
         style : require_blank_line
 
-.. NOTE:: All examples below are using the rule **entity_004**.
+.. NOTE:: All examples below are using the rule **entity_003**.
 
 Example: no_blank
 #################
